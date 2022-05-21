@@ -1,0 +1,6 @@
+comm movimento dito
+speck Inizio
+moveLeftFinger 2 30
+moveLeftFinger 2 180
+moveLeftFinger 2 30
+speck Fine

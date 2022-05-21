@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/thet3o/Documents/Projects/RobotLabUltimate/venv/lib/python3.8/site-packages",
+        "./tests"
+    ]
+}
