@@ -1,3 +1,3 @@
-# RobotLabUltimate
+# UltimateRobotLab
 ## Documentation
 - [URL Actions Files Commands & Syntax](docs/RLUCommands&Syntax.md)
